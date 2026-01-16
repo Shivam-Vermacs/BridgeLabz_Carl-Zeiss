@@ -1,5 +1,5 @@
 # BridgeLabz-Carl-Zeiss-Daily Log
----
+
 
 In this Readme File , i'll Update whatever i learn everyday while attending the BridgeLabz Training Fellowship Program.
 
@@ -14,7 +14,7 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 **Issue Faced** : None
 
 # 14th January , 2026 
----
+
 **What I have Done** : Set up Visual Studio environment for .NET development
 
 * Completed basic C# questions covering input/output operators, conditionals, and type conversions to familiarize with C# syntax and Visual Studio IDE
@@ -35,12 +35,12 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 
 
 # 15th January , 2026 
----
+
 ## HOLIDAY 
 
 
 # 16th January , 2026 
----
+
 **What I have Done** : Practiced Looping Problems , Pattern Problems and Logical Problems in C# 
 
 * I was given a Task by Kural Sir , where i had to implement Linux and git commands. Completed the task and sent the link of the task to GChat
