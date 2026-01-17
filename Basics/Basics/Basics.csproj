@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Basics._06_PatternPrinting.rightangled</StartupObject>
+    <StartupObject>Basics._08_FundamentalsQuestions.Powercalculation</StartupObject>
   </PropertyGroup>
 
 </Project>
