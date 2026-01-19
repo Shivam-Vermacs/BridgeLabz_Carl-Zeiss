@@ -59,4 +59,20 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 
 **Issue Faced** : None
 
+# SUNDAY
+
+
+# 19th January , 2026
+
+**What I have Done** :  
+Practiced **C# Control Flow**.  
+* Read about **.NET Architecture** and its execution process.  
+* Practiced **Arrays Level 1 and Level 2** programs.  
+* Practiced **Strings Level 1**.
+
+**What I Will Do Next** :  
+Finish whatever is left in **Core Programming**.    
+* Start and understand **OOPs concepts**.
+
+**Issue Faced** : None
 
