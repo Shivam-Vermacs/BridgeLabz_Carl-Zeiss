@@ -76,3 +76,26 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 
 **Issue Faced** : None
 
+# 20th January , 2026
+
+**What I have Done** :  
+* Practiced **Strings**.  
+* Revised **Git**, **Linux**, and **Core Programming concepts in C#**.
+
+**What I Will Do Next** :  
+* Practice **Methods**.  
+* Revise **C# Core Programming Concepts**.
+
+**Issue Faced** : None
+
+# 21st January , 2026
+
+**What I have Done** :
+* Practiced **Methods**.
+* Started **OOPs** (Classes, Objects, Methods, Access Modifiers, Encapsulation).
+
+**What I Will Do Next** :
+* Understand and practice more **OOPs concepts**.
+
+**Issue Faced** : None
+
