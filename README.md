@@ -99,3 +99,22 @@ In this Readme File , i'll Update whatever i learn everyday while attending the 
 
 **Issue Faced** : None
 
+# 22nd January, 2026
+
+**What I have Done:**
+Practiced and understood from first principles:
+- **Class and Object**
+- Creating objects using **new**
+- **Instance members vs Static members**
+- **Fields** (Public vs Private, Instance, Static)
+
+**What I Will Do Next:**
+- **Readonly fields**
+- **Methods** (Instance, Static, Parameters & Return Types, Overloading)
+- **Constructors** (Default, Parameterized, Overloading, Chaining using `this()`)
+- **Access Modifiers** (public, private, protected, internal, protected internal, private protected)
+- **Properties** (Getters & Setters, Auto-properties, Read-only, Write-only)
+- **Encapsulation** (Data hiding using private fields, exposing behavior via public methods/properties)
+
+**Issue Faced :** None
+
