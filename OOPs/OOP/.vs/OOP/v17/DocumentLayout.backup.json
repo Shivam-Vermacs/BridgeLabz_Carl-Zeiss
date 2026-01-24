@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\snakeandladder\\snakeandladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\snakeandladder\\snakeandladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\oop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\oop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\constructors\\chainingandoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\constructors\\chainingandoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\constructors\\defaultconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\constructors\\defaultconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\inheritance\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\inheritance\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OOP",
-              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\OOP.csproj",
-              "RelativeDocumentMoniker": "OOP\\OOP.csproj",
-              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\OOP.csproj",
-              "RelativeToolTip": "OOP\\OOP.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-23T11:48:16.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SnakeandLadder.cs",
-              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\SnakeandLadder\\SnakeandLadder.cs",
-              "RelativeDocumentMoniker": "OOP\\SnakeandLadder\\SnakeandLadder.cs",
-              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\SnakeandLadder\\SnakeandLadder.cs",
-              "RelativeToolTip": "OOP\\SnakeandLadder\\SnakeandLadder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Inheritance\\inheritance.cs",
+              "RelativeDocumentMoniker": "OOP\\Inheritance\\inheritance.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Inheritance\\inheritance.cs",
+              "RelativeToolTip": "OOP\\Inheritance\\inheritance.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T11:46:42.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Chainingandoverloading.cs",
-              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Constructors\\Chainingandoverloading.cs",
-              "RelativeDocumentMoniker": "OOP\\Constructors\\Chainingandoverloading.cs",
-              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Constructors\\Chainingandoverloading.cs",
-              "RelativeToolTip": "OOP\\Constructors\\Chainingandoverloading.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T10:33:35.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DefaultConstructor.cs",
-              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Constructors\\DefaultConstructor.cs",
-              "RelativeDocumentMoniker": "OOP\\Constructors\\DefaultConstructor.cs",
-              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Constructors\\DefaultConstructor.cs",
-              "RelativeToolTip": "OOP\\Constructors\\DefaultConstructor.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwEcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T09:26:04.577Z",
+              "WhenOpened": "2026-01-24T10:12:53.958Z",
               "EditorCaption": ""
             }
           ]
