@@ -8,4 +8,12 @@
     <StartupObject>OOP.Inheritance.inheritance</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Polymorphism\poly.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Polymorphism\poly.cs" />
+  </ItemGroup>
+
 </Project>

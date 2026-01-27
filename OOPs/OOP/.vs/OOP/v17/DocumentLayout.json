@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\abstraction\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\abstraction\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\inheritance\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\inheritance\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\polymorphism\\poly.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\polymorphism\\poly.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "abstraction.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Abstraction\\abstraction.cs",
+              "RelativeDocumentMoniker": "OOP\\Abstraction\\abstraction.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Abstraction\\abstraction.cs",
+              "RelativeToolTip": "OOP\\Abstraction\\abstraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:51:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "poly.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Polymorphism\\poly.cs",
+              "RelativeDocumentMoniker": "OOP\\Polymorphism\\poly.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Polymorphism\\poly.cs",
+              "RelativeToolTip": "OOP\\Polymorphism\\poly.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:03:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "inheritance.cs",
               "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Inheritance\\inheritance.cs",
               "RelativeDocumentMoniker": "OOP\\Inheritance\\inheritance.cs",
               "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Inheritance\\inheritance.cs",
               "RelativeToolTip": "OOP\\Inheritance\\inheritance.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T10:12:53.958Z",
               "EditorCaption": ""

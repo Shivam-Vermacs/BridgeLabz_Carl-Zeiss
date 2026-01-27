@@ -36,7 +36,9 @@ namespace OOP.Inheritance
             {
             Car v1 = new Car("Toyota", 40);
             v1.DisplayVehicleInfo();
-            }
+            }   
+
+            
         
     }
        
