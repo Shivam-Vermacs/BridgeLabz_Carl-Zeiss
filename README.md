@@ -158,6 +158,32 @@ Practiced and understood from first principles:
 
 **Issue Faced:**
 None
-~
-~
+
+# SUNDAY
+
+# HOLIDAY ( REPUBLIC DAY )
+
+# 27th January, 2026 
+
+**What I have Done:**
+- Practiced **Abstraction** and **Polymorphism**.
+- Studied **Abstract Classes**, **Interfaces**, **Object Diagrams**, and **Class Diagrams**.
+
+**What I Will Do Next:**
+- Revise all the concepts learned by practicing.
+
+**Issue Faced:**
+None
+
+# 28th January, 2026
+
+**What I have Done:**
+- Practiced and revised **OOPs concepts**.
+
+**What I Will Do Next:**
+- Start **DSA in C#**.
+
+**Issue Faced:**
+None
+
 
