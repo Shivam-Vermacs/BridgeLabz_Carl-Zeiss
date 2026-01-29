@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\pillarsrevision\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\pillarsrevision\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\numberprocessing-task\\numberprocessingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\numberprocessing-task\\numberprocessingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|c:\\kdrama\\bridgelabz_carl-zeiss\\oops\\oop\\oop\\revision\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BB458E-291A-4533-B7D9-B5F1BB1CB070}|OOP\\OOP.csproj|solutionrelative:oop\\revision\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inheritance.cs",
-              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\PillarsRevision\\Inheritance.cs",
-              "RelativeDocumentMoniker": "OOP\\PillarsRevision\\Inheritance.cs",
-              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\PillarsRevision\\Inheritance.cs",
-              "RelativeToolTip": "OOP\\PillarsRevision\\Inheritance.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Title": "NumberProcessingSystem.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\NumberProcessing-Task\\NumberProcessingSystem.cs",
+              "RelativeDocumentMoniker": "OOP\\NumberProcessing-Task\\NumberProcessingSystem.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\NumberProcessing-Task\\NumberProcessingSystem.cs",
+              "RelativeToolTip": "OOP\\NumberProcessing-Task\\NumberProcessingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T10:10:29.242Z",
+              "WhenOpened": "2026-01-29T11:50:08.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Revision\\Abstraction.cs",
+              "RelativeDocumentMoniker": "OOP\\Revision\\Abstraction.cs",
+              "ToolTip": "C:\\kdrama\\BridgeLabz_Carl-Zeiss\\OOPs\\OOP\\OOP\\Revision\\Abstraction.cs",
+              "RelativeToolTip": "OOP\\Revision\\Abstraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:19:56.607Z",
               "EditorCaption": ""
             }
           ]
