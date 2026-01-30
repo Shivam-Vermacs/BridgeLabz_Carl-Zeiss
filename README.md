@@ -197,4 +197,16 @@ Learn about **Composition**, **Aggregation**, etc.
 **Issue Faced:**
 None
 
+# 30th January, 2026
+
+**What I have Done:**
+Started **DSA in C#**.
+Solved basic **array questions** to get familiar with the syntax.
+
+**What I Will Do Next:**
+Solve more **array questions**.
+Start **Linked List** ASAP.
+
+**Issue Faced:** None
+
 
