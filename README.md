@@ -235,3 +235,28 @@ Start **Linked List** ASAP.
 
 **Issue Faced:** None
 
+# 3nd February, 2026
+
+**What I have done:**
+- Solved **Linked List** questions.
+- Started **Stacks**.
+
+**What I will do next:**
+- Continue **Stacks**.
+- Start **Queue** and other **Data Structures**.
+
+**Issues faced:** None
+
+# 4th February, 2026
+
+**What I have done:**
+- Solved **LinkedList** and **Stack** LeetCode problems.
+- Implemented a small **To-Do List** using **LinkedList**.
+
+**What I will do next:**
+- Practice **Queues** and **HashMap**.
+- Practice **scenario-based questions**.
+
+**Issues faced:** None
+
+
