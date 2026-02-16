@@ -259,4 +259,123 @@ Start **Linked List** ASAP.
 
 **Issues faced:** None
 
+# 5th February, 2026
+
+**What I have done:**  
+- Revised **LinkedList** through scenario-based questions.  
+- Revised **Hashing** and **Sorting**.
+
+**What I will do next:**  
+- Practice **scenario-based questions**.
+
+**Issues faced:**  None
+
+
+# 6th February, 2026
+
+**What I have done:**
+- Worked on scenario-based problems given by **Kural Sir**:
+  - Test Result System
+  - Sensor Data Processing
+- Practiced and revised **HashMap** questions.
+
+**Total concepts covered:**
+- Using **HashSet with Queue**
+- Combining **Dictionary with LinkedList**
+- Applying **Queue operations** based on real-world requirements
+
+**What I will do next:**
+- Strengthen understanding of **mixed concepts** to solve complex, industry-level problems.
+
+**Issues faced:** None
+
+
+# 7th February, 2026
+
+**What I have done:**  
+- Gave a **review to Kural Sir**.  
+- Shared the review link for submission.
+
+**What I will do next:**  
+- Study **C# Collections** and **Streams**.
+
+**Issues faced:**  None
+
+# Sunday 
+
+# 9th February, 2026
+
+**What I have done:**
+- Studied **C# Collections** and **Streams**.
+- Learned **Generics**, including:
+  - Type parameters
+  - Generic classes
+  - Generic methods
+  - Bounded type parameters
+
+**What I will do next:**
+- Study **C# Closures** and **Delegates**.
+
+**Issues faced:**  None
+
+# 10th February, 2026
+
+**What I have done:**
+- Revised **OOPs concepts**.
+- Attended a review session with **Chandrashekar Sir**.
+- Discussed the upcoming topics to be covered.
+
+**What I will do next:**
+- Work on the **Line Comparison problem**.
+- Study **Collections**.
+
+**Issues faced:**  None
+
+# 11th February, 2026
+
+**What I have done:**
+- Solved the **Line Comparison problem**.
+- Started learning **Events** and **Delegates**.
+
+**What I will do next:**
+- Practice **Events** and **Delegates**.
+- Study **Generics**.
+
+**Issues faced:**
+None
+
+# 12th February, 2026 
+
+**What I have done:**  
+- Learned Closures and Delegates.
+
+**What I will do next:**  
+- Study non-generic collections.
+
+**Issues faced:**  None
+
+# 13th February, 2026
+
+**What I have done:**
+- Studied Delegates, Events, and Closures.
+- Learned about Garbage Collection and the Dispose pattern.
+- Studied Collections in C#.
+
+**What I will do next:**
+- Complete the remaining use cases of the Address Book problem.
+- Revise topics for the upcoming review.
+
+**Issues faced:**  None
+
+# 14th February, 2026
+
+**What I have done:**
+- Implemented the Address Book problem given by Chandrashekhar Sir.
+- Attended the review session with Chandrashekhar Sir.
+
+**What I will do next:**
+- Complete the remaining use cases of the Address Book problem.
+
+**Issues faced:**  None
+
 
