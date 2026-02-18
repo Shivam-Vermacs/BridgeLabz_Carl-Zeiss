@@ -378,4 +378,50 @@ None
 
 **Issues faced:**  None
 
+# **Daily Status Update: 16th February, 2026**
+
+ **What I have done:**
+
+* Studied Exceptions and their types.
+* Learned about Try–Catch–Finally.
+* Studied Multi-Catch.
+* Understood the difference between Exception and Error.
+
+ **What I will do next:**
+
+* Study I/O Streams.
+
+**Issues faced:** None
+
+---
+
+# **Daily Status Update: 17th February, 2026**
+
+**What I have done:**
+
+* Studied I/O Streams.
+* Learned about Streams.
+* Worked with File Streams.
+
+**What I will do next:**
+
+* Implement I/O Streams.
+
+**Issues faced:** None
+
+---
+
+# **Daily Status Update: 18th February, 2026**
+
+**What I have done:**
+
+* Solved CSV and JSON problems.
+
+**What I will do next:**
+
+* Start Regex.
+
+**Issues faced:** None
+
+
 
